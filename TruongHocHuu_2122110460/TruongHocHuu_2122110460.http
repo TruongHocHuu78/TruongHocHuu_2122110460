@@ -1,0 +1,6 @@
+@TruongHocHuu_2122110460_HostAddress = http://localhost:5174
+
+GET {{TruongHocHuu_2122110460_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
