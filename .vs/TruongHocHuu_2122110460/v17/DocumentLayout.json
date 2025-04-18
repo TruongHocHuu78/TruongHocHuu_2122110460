@@ -3,24 +3,104 @@
   "WorkspaceRootPath": "D:\\asp.net-core\\TruongHocHuu_2122110460\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\truonghochuu_2122110460.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\truonghochuu_2122110460.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\util\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\util\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\util\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\util\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\truonghochuu_2122110460.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\truonghochuu_2122110460.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|d:\\asp.net-core\\truonghochuu_2122110460\\truonghochuu_2122110460\\truonghochuu_2122110460.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF681BB6-6EC5-4B72-AE1E-81527BF8A703}|TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj|solutionrelative:truonghochuu_2122110460\\truonghochuu_2122110460.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +110,308 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\User.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\User.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:53:51.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:57:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Program.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Program.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Program.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:53:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\JwtSettings.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\JwtSettings.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:46:48.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Util\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Util\\JwtTokenService.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Util\\JwtTokenService.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Util\\JwtTokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:03:44.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Util\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Util\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Util\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Util\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:59:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\Category.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Category.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:05:46.297Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TruongHocHuu_2122110460",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:04:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\Order.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Order.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\Order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:27:15.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\Product.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Product.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:53:28.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Dto\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Dto\\UserRegisterDto.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Dto\\UserRegisterDto.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Dto\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:06:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Dto\\UserLoginDto.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:08:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:20:04.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:58:00.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:34:40.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:35:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:50:32.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\WeatherForecast.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\WeatherForecast.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:12:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TruongHocHuu_2122110460.http",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460.http",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\TruongHocHuu_2122110460.http",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460.http",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\TruongHocHuu_2122110460.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-04T06:12:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.json",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\appsettings.json",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.json",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T08:47:44.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:11:33.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\appsettings.Development.json",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.Development.json",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T06:40:49.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TruongHocHuu_2122110460\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T06:13:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TruongHocHuu_2122110460.csproj",
               "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj",
               "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj",
               "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj",
               "RelativeToolTip": "TruongHocHuu_2122110460\\TruongHocHuu_2122110460.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-28T08:59:09.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Model\\Product.cs",
-              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Model\\Product.cs",
-              "RelativeToolTip": "TruongHocHuu_2122110460\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:53:28.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Program.cs",
-              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Program.cs",
-              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Program.cs",
-              "RelativeToolTip": "TruongHocHuu_2122110460\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:53:07.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext .cs",
-              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
-              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
-              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
-              "RelativeToolTip": "TruongHocHuu_2122110460\\Data\\AppDbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:50:32.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.json",
-              "RelativeDocumentMoniker": "TruongHocHuu_2122110460\\appsettings.json",
-              "ToolTip": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\appsettings.json",
-              "RelativeToolTip": "TruongHocHuu_2122110460\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T08:47:44.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T08:59:09.97Z"
             }
           ]
         }

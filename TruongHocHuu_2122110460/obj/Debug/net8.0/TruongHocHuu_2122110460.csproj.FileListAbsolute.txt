@@ -67,3 +67,5 @@ D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.pdb
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.genruntimeconfig.cache
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\ref\TruongHocHuu_2122110460.dll
+D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

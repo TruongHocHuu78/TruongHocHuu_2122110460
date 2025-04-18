@@ -2,10 +2,19 @@
 {
     public class Product
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
 
         public string Name { get; set; }
+        public string Description { get; set; }
         public string Image { get; set; }
         public double Price { get; set; }
+        public bool IsAvailable { get; set; }
+        private DateTime createdAt { get; set; }
+        private DateTime updatedAt { get; set; }
+        // Foreign key
+        public long CategoryId { get; set; }
+
+        // Navigation property
+        public Category? Category { get; set; }
     }
 }
