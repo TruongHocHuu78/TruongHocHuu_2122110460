@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Identity;
 using TruongHocHuu_2122110460.Util;
+using TruongHocHuu_2122110460.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,7 +25,9 @@ builder.Services.AddCors(options =>
         policy
             .WithOrigins(
                 "http://localhost:5173",
-                "http://localhost:5174"
+                "http://localhost:5174",
+                "http://localhost:5175",
+                "http://localhost:3000"
             )
             .AllowAnyMethod()
             .AllowAnyHeader()
@@ -32,10 +35,12 @@ builder.Services.AddCors(options =>
     });
 });
 
+
 // 3. JWT / Identity / PasswordHasher...
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("Jwt"));
 builder.Services.AddSingleton<JwtTokenService>();
 builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
+builder.Services.AddScoped<CloudinaryService>();
 
 var jwtSettings = builder.Configuration.GetSection("Jwt").Get<JwtSettings>();
 var key = Encoding.ASCII.GetBytes(jwtSettings.Key);
@@ -63,12 +68,13 @@ builder.Services
     });
 
 var app = builder.Build();
-
+app.UseStaticFiles();
 // 4. Pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    
 }
 
 app.UseHttpsRedirection();

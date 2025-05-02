@@ -10,6 +10,7 @@ namespace TruongHocHuu_2122110460.Controllers
 {
     [Route("api/auth")]
     [ApiController]
+
     public class AuthController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -31,7 +32,7 @@ namespace TruongHocHuu_2122110460.Controllers
                 Username = dto.Username,
             };
             user.PasswordHash = _passwordHasher.HashPassword(user, dto.Password);
-
+            user.Role = dto.Role;
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
             return Ok("Đăng ký thành công");
@@ -48,8 +49,15 @@ namespace TruongHocHuu_2122110460.Controllers
                 return Unauthorized("Sai mật khẩu");
 
             var token = _jwtService.GenerateToken(user);
-            return Ok(new { token });
+
+            // Trả về token và role
+            return Ok(new
+            {
+                token,
+                role = user.Role
+            });
         }
+
     }
 
 }

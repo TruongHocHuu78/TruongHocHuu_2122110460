@@ -10,6 +10,6 @@
         public DateTime UpdatedAt { get; set; }
 
         // Navigation property (danh sách sản phẩm thuộc Category này)
-        public List<Product> Products { get; set; }
+        public List<Product>? Products { get; set; }
     }
 }

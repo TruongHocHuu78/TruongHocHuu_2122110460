@@ -50,7 +50,6 @@ D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.csproj.CoreCompileInputs.cache
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.MvcApplicationPartsAssemblyInfo.cs
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.MvcApplicationPartsAssemblyInfo.cache
-D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\TruongHocHuu_2122110460.sourcelink.json
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\scopedcss\bundle\TruongHocHuu_2122110460.styles.css
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\staticwebassets.build.json
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\staticwebassets.development.json
@@ -69,3 +68,6 @@ D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\ref\TruongHocHuu_2122110460.dll
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\asp.net-core\TruongHocHuu_2122110460\TruongHocHuu_2122110460\bin\Debug\net8.0\TruongHocHuu_2122110460.staticwebassets.runtime.json

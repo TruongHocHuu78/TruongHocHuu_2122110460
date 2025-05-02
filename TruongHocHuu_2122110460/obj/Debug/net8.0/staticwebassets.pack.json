@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\45293bb2-4ec6-458b-8975-8a0093537172_aosomi2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45293bb2-4ec6-458b-8975-8a0093537172_aosomi2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\457118fe-6167-4932-98d8-73b376294975_aosomi2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\457118fe-6167-4932-98d8-73b376294975_aosomi2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\products\\38d397a6-4d8a-4afb-9b98-5cfc361e37e2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\38d397a6-4d8a-4afb-9b98-5cfc361e37e2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\products\\680e8ca1-31b4-40c3-bbba-96c4ac4d1fb5.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\680e8ca1-31b4-40c3-bbba-96c4ac4d1fb5.png"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\products\\75060c3e-a8a9-427a-bd4e-e36145adf068.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\75060c3e-a8a9-427a-bd4e-e36145adf068.png"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\products\\c098f37d-0353-4f0d-8e2c-b8dfbd0dfcf9.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\c098f37d-0353-4f0d-8e2c-b8dfbd0dfcf9.png"
+    },
+    {
+      "Id": "D:\\asp.net-core\\TruongHocHuu_2122110460\\TruongHocHuu_2122110460\\wwwroot\\uploads\\products\\cd067292-8da8-40b1-b077-c99c4f463948.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\cd067292-8da8-40b1-b077-c99c4f463948.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TruongHocHuu_2122110460.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TruongHocHuu_2122110460.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TruongHocHuu_2122110460.props",
+      "PackagePath": "build\\TruongHocHuu_2122110460.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TruongHocHuu_2122110460.props",
+      "PackagePath": "buildMultiTargeting\\TruongHocHuu_2122110460.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TruongHocHuu_2122110460.props",
+      "PackagePath": "buildTransitive\\TruongHocHuu_2122110460.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

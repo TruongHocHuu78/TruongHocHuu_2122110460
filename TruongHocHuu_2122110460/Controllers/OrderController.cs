@@ -26,7 +26,28 @@ namespace TruongHocHuu_2122110460.Controllers
                 .Include(o => o.User)
                 .ToListAsync();
         }
+        [HttpPut("{id}/status")]
+        public async Task<IActionResult> UpdateOrderStatus(int id, [FromQuery] string status)
+        {
+            var order = await _context.Orders.FindAsync(id);
+            if (order == null)
+            {
+                return NotFound("Đơn hàng không tồn tại");
+            }
 
+            if (!Enum.TryParse(status, out OrderStatus orderStatus))
+            {
+                return BadRequest("Trạng thái không hợp lệ");
+            }
+
+            order.Status = orderStatus;
+            order.UpdatedAt = DateTime.UtcNow;
+
+            _context.Orders.Update(order);
+            await _context.SaveChangesAsync();
+
+            return Ok(order);
+        }
         // GET: api/Order/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Order>> GetOrder(long id)
